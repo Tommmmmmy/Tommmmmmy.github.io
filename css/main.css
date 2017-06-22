@@ -70,3 +70,11 @@ button:hover {
 	display: inline-block;
 	width: 20%
 }
+
+a {
+	color: white;
+}
+
+#aa {
+	float: left;
+}
